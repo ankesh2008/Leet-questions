@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankesh2008/Leet-questions/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ankesh2008/Leet-questions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ankesh2008/Leet-questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
