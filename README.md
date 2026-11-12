@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankesh2008/Leet-questions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/ankesh2008/Leet-questions/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/ankesh2008/Leet-questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankesh2008/Leet-questions/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/ankesh2008/Leet-questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
